@@ -1,0 +1,72 @@
+#header .h{
+    font-family: 'Pacifico', cursive;
+}
+
+#ShowCase
+{
+    background: url('../img/portfolio-management-best-practices-for-investors.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-height: 500px;
+}
+
+#sighebg
+{
+    background: url('../img/0_2HMKHKXtJFNsOEoU..jpeg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-height: 500px;
+}
+
+#lnhebg
+{
+    background: url('../img/0_z2Exl5pyVxn3JfTS..jpeg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-height: 500px;
+}
+
+#auhebg
+{
+    background: url('../img/0_GGW4derkEsEcux8v.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-height: 500px;
+}
+
+#Authors img
+{
+    margin-top: -50px;
+}
+
+#Authors .fa
+{
+    font-size: 25px;
+}
+
+#Authors .fa:hover
+{
+    color: white;
+}
+
+#header .navbar
+{
+    border-bottom: #2980b9 solid 04px;
+}
+
+#footer
+{
+    border-top: #0984e3 solid 05px;
+}
+
+#Services .card
+{
+    background:#2d3436;
+    color: #FFF
+}
+
+#Services .card:hover
+{
+    background:#FFF;
+    color: #2d3436;
+}
